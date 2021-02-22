@@ -17,3 +17,9 @@ In the Images folder we can see the connections, VCC is connected to the red wir
 > Output pin of the LM35 connects to A0 (Analog input pin) of the Bolt Wifi module.
 
 > Gnd pin of the LM35 connects to the Gnd.
+
+When all the above connections are made we next need to create a email_conf.py which includes all the details about the BOLT device and 3rd party application that is MAILGUN for sending the alert messages if the threshold temperature which has been set here to (300,600) the values within the bounds are the values that are good for the operating conditions.
+
+If the temperature decreases or increases out of the bound will be sent as an alert mail to the owner
+
+So that it helps the owner to optimize the situation by taking proper care with no time 
