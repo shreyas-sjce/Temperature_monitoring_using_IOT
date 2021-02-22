@@ -10,7 +10,7 @@ Hardware required
 
 > Temperature Sensor: LM35 sensor
 
-In the Images folder we can see the connections, VCC is connected to the red wire, Output is connected to the orange wire and Gnd is connected to the brown wire.Step 3: Using male to female wire connect the 3 pins of the LM35 to the Bolt Wifi Module as follows:
+In the Images folder we can see the connections, VCC is connected to the red wire, Output is connected to the orange wire and Gnd is connected to the brown wire. Using male to female wire connect the 3 pins of the LM35 to the Bolt Wifi Module as follows:
 
 > VCC pin of the LM35 connects to 5v of the Bolt Wifi module.
 
